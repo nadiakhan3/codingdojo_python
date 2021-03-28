@@ -17,3 +17,9 @@ def officehours(arr):
     print(len(newarr))
 
 officehours([1,3,5,6,7,8])
+
+
+def cool(list):
+    return len(list)
+
+cool([1,5,6,8,3,5])
